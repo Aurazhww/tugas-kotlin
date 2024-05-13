@@ -1,0 +1,7 @@
+<resources>
+    <string name="menu_home">Home</string>
+    <string name="menu_explore">Explore</string>
+    <string name="menu_back">Detail</string>
+    <string name="menu_profile">About Me</string>
+    <string name="title_activity_navigation">Navigation</string>
+</resources>
